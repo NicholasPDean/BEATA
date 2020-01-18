@@ -32,7 +32,7 @@ Enter the password: 1234
 
 Choose the button as the interface type
       
-   2.2 Usage
+      2.2 Usage
 
 To use B.E.A.T.A., if you are walking away from your working area, simply slide B.E.A.T.A over the lid of your laptop and close the lid. 
 
