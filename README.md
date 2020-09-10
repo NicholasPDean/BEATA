@@ -15,13 +15,13 @@ B.E.A.T.A. (Bluetooth-Enabled Anti-Theft Alarm), serves to prevent your valuable
    5. Video Demo 
 
 
-1. Project Description
+1.) Project Description
    --------------------------------
 
 B.E.A.T.A. (Bluetooth-Enabled Anti-Theft Alarm), serves to prevent your valuables from being stolen, specifically your laptop. The hardware device wraps around the lid of one’s laptop 
 and is enabled with Bluetooth from an Android device. Any motion of the laptop triggers a speaker and sends an alert to the smartphone
 
-2. Installation
+2.) Installation
    -------------------
 
    2.1 Installation Steps
@@ -44,14 +44,14 @@ B.E.A.T.A. is now enabled. Any motion to the laptop will sound an alarm and send
 
 To disenable B.E.A.T.A., simply click the button again, and now B.E.A.T.A will no longer sound an alarm even if the laptop is used. 
 
-3. Purpose
+3.) Purpose
    ------------
 
 The goal of this project is to provide a tool for people working in a public space to protect their valuables with should they need to leave their working space temporarily 
 without forfeiting their seat. While the initial target audience was college students as college students often work in public spaces and have high incidences of laptop theft, the 
 applicability of this project truly extends to anyone working in a public environment.
 
-4. What I Learned
+4.) What I Learned
    ------------
 
 During this project, I learned how to work with Bluetooth as well as create 3D-print designs in TinkerCAD. I used a HC-05 Bluetooth module combined with an Arduino Nano to establish a 
@@ -63,7 +63,7 @@ prototype quite early into the hackathon, I continued to test and test for hours
 accelerator took a long time because I wanted to ensure that someone bumping the table would not trigger the alarm but that someone stealing the laptop would trigger the alarm, so there was 
 a lot of  fine-tuning to be done in situations like this.
 
-4. Video Demo
+5.) Video Demo
    ------------
 
 https://youtu.be/P8f6zFW6Uh8
