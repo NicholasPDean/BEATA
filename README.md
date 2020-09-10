@@ -11,6 +11,8 @@ B.E.A.T.A. (Bluetooth-Enabled Anti-Theft Alarm), serves to prevent your valuable
    3. Purpose
 
    4. What I Learned
+   
+   5. Video Demo 
 
 
 1. Project Description
@@ -60,6 +62,11 @@ Additionally, I also learned more about the prototype testing project and simply
 prototype quite early into the hackathon, I continued to test and test for hours, and I finished right before the deadline. For example, calibrating items like the sensitivity of the 
 accelerator took a long time because I wanted to ensure that someone bumping the table would not trigger the alarm but that someone stealing the laptop would trigger the alarm, so there was 
 a lot of  fine-tuning to be done in situations like this.
+
+4. Video Demo
+   ------------
+
+https://youtu.be/P8f6zFW6Uh8
 
 ------------------------------------------------------------------------
 Created by Nicholas P. Dean on 1/12/20.
